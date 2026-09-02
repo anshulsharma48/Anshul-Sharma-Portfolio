@@ -1,4 +1,4 @@
-# Anshul Sharma — Personal Portfolio
+# Anshul Sharma  Personal Portfolio
 
 > Personal portfolio website showcasing my skills, projects, education, and software development journey.
 
