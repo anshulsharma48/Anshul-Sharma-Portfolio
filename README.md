@@ -93,7 +93,7 @@ A full-stack web application designed to manage college events and student activ
 
 `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `REST API`
 
-🔗 **Live Demo:**  
+🔗 Live Demo
 https://college-event-management-system-gamma.vercel.app/
 
 🔗 **Source Code:**  
